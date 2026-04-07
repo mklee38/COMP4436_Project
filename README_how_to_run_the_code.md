@@ -32,5 +32,5 @@ jupyter notebook main.ipynb
 jupyter lab
 ```
 
-Open `main.ipynb` in your browser or directly in VS Code (opens with the Jupyter extension).
+Open `main.ipynb` in your browser or directly in VS Code (opens with the Jupyter extension). Then, run all the cells.
 
