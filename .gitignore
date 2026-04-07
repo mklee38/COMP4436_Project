@@ -1,3 +1,6 @@
 #   .gitignore
 # Ignore all PDF files
 *.pdf
+
+# Ignore all files in the .venv directory
+.venv/
